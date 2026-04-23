@@ -16,7 +16,7 @@ I am a **Information Technology student** with a deep passion for **Game AI Prog
 
 #### 📬 How to reach me
 - 📧 **Email:** huypq020607@gmail.com
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/quốc-huy-phan-ba65b7405/
 - 💬 **Ask me about:** C++ basics, Math logic, or why I find AI agents fascinating!
 
 ####
